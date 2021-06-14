@@ -1,0 +1,1 @@
+This is a set of solved tasks on Shell,i/o redirections and filters.
