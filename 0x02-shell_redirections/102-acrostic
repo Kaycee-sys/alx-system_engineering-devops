@@ -1,2 +1,2 @@
 #!/bin/bash
-firstletters=$( set -f; printf "%c" $line )
+cut -b 1|tr -d '\n'|sort
